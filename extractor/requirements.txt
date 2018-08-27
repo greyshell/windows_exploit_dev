@@ -1,0 +1,12 @@
+appdirs==1.4.0
+defusedxml==0.4.1
+jira==1.0.9
+oauthlib==2.0.1
+ordereddict==1.1
+packaging==16.8
+pbr==1.10.0
+pyparsing==2.1.10
+requests==2.13.0
+requests-oauthlib==0.7.0
+requests-toolbelt==0.7.0
+six==1.10.0
